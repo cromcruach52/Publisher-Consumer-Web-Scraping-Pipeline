@@ -222,18 +222,3 @@ docker-compose down
 docker-compose down -v
 ```
 
----
-
-
-### Logs and Debugging
-
-```cmd
-python main.py --mode consumer --verbose
-docker-compose logs mongodb
-docker-compose logs redis
-```
-
----
-
-
-"# Publisher-Consumer-Web-Scraping-Pipeline" 
