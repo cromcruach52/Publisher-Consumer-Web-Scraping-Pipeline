@@ -17,7 +17,7 @@ A robust, scalable web scraping pipeline using Redis for task queuing and MongoD
 ## 🏗️ Architecture
 
 ```
-!(publisher_consumer_flowchart.png)
+![Publisher-Consumer Flowchart](publisher_consumer_flowchart.png)
 ```
 
 ## 🛠️ Installation
