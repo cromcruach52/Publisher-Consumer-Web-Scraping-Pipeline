@@ -30,8 +30,7 @@ A robust, scalable web scraping pipeline using Redis for task queuing and MongoD
 
 ```cmd
 # Clone the repository
-git clone <your-repo-url>
-cd publisher-consumer-pipeline
+git clone https://github.com/cromcruach52/Publisher-Consumer-Web-Scraping-Pipeline.git
 
 # Create virtual environment
 python -m venv venv
