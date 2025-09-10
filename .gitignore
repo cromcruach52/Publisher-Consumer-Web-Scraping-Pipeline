@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Docker
+*.pid
+*.sock
+
+# VSCode settings
+.vscode/
+
+
